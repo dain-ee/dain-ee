@@ -10,7 +10,7 @@
 <h3 align="center">Hi! I'm Dain </h3>
 <p align="center">
   <a href="danchoorang0926@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danchoorang0926@gmail.com)](mailto:danchoorang0926@gmail.com)"/></a>&nbsp
-<a href="https://www.notion.so/2d4996dcc35f43c9803c7e28d802bbd7"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+<a href="https://www.notion.so/c5f9adab841b4ca2b96fead8abd9b96a"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 <h4 align="center"> </h4>
 
 <br>
